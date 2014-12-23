@@ -14,3 +14,5 @@ F:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.csprojResolveAssemblyReference.cache
 F:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.UDPSendFrm.resources
 F:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.Properties.Resources.resources
 F:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.csproj.GenerateResource.Cache
+F:\Repos\Net\UdpConsol\UDPSend\obj\Debug\UDPSend.exe
+F:\Repos\Net\UdpConsol\UDPSend\obj\Debug\UDPSend.pdb
