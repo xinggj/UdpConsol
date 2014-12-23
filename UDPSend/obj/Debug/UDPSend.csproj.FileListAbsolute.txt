@@ -1,0 +1,16 @@
+E:\Demo\UdpConsol\UDPSend\bin\Debug\UDPSend.exe
+E:\Demo\UdpConsol\UDPSend\bin\Debug\UDPSend.pdb
+E:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.Form1.resources
+E:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.Properties.Resources.resources
+E:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.csproj.GenerateResource.Cache
+E:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.exe
+E:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.pdb
+E:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.csprojResolveAssemblyReference.cache
+F:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.exe
+F:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.pdb
+F:\Demo\UdpConsol\UDPSend\bin\Debug\UDPSend.exe
+F:\Demo\UdpConsol\UDPSend\bin\Debug\UDPSend.pdb
+F:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.csprojResolveAssemblyReference.cache
+F:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.UDPSendFrm.resources
+F:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.Properties.Resources.resources
+F:\Demo\UdpConsol\UDPSend\obj\Debug\UDPSend.csproj.GenerateResource.Cache
