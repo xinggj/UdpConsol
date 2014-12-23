@@ -1,7 +1,0 @@
-E:\Demo\UdpConsol\UdpDemo\bin\Debug\UdpDemo.dll
-E:\Demo\UdpConsol\UdpDemo\bin\Debug\UdpDemo.pdb
-E:\Demo\UdpConsol\UdpDemo\obj\Debug\UdpDemo.csprojResolveAssemblyReference.cache
-E:\Demo\UdpConsol\UdpDemo\obj\Debug\UdpDemo.UserControl1.resources
-E:\Demo\UdpConsol\UdpDemo\obj\Debug\UdpDemo.csproj.GenerateResource.Cache
-E:\Demo\UdpConsol\UdpDemo\obj\Debug\UdpDemo.dll
-E:\Demo\UdpConsol\UdpDemo\obj\Debug\UdpDemo.pdb
