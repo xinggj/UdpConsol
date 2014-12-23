@@ -16,7 +16,6 @@ namespace UDPSend
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new UDPSendFrm());
-            //test
         }
     }
 }
