@@ -22,7 +22,6 @@ namespace UDPSend
             string msg = cBx_cmd.SelectedItem + "_" + textBox_Value.Text;
             IPAddress addr = IPAddress.Parse(textBox_IP.Text);
             System.Net.IPEndPoint end = new System.Net.IPEndPoint(addr, int.Parse(textBox_Port.Text));
-            // udp.Connect(end);
             byte[] bytes = System.Text.ASCIIEncoding.GetEncoding("gb2312").GetBytes(msg);
             int i = udp.Send(bytes, bytes.Length, end);
             udp.Close();
